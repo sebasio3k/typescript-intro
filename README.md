@@ -11,6 +11,3 @@ Para instalar y ejecutar el proyecto.
 
 # Deprecated decorator
 https://gist.github.com/Klerith/c4bd6ddc72362ac35b68a0727294ebdc
-
-
-cambio
